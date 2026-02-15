@@ -1,0 +1,5 @@
+{
+  "name": "Graphic Story Sequence Builder",
+  "description": "A visual narrative tool that combines four distinct graphics into a structured story sequence, generating both a visual layout and a literal descriptive sentence.",
+  "requestFramePermissions": []
+}
